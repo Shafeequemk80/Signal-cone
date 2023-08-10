@@ -1,0 +1,138 @@
+@font-face {
+    font-family: inter;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.header
+{
+    background-color: white;
+    width: 100%;
+    height:85px;
+  margin: 0;
+    display: flex;
+    position: fixed;
+    z-index: 100;
+    
+    
+}
+body{
+    margin: 0%;
+    font-family: inter;
+
+   
+}
+
+.navbar{
+    width: 50%;
+   display: flex; 
+   align-items: center;
+   
+   
+
+}
+.header-logo
+{
+    width: 150px;
+    height: auto;
+    padding-left: 67px;
+   
+}
+.right-header
+{
+    margin: 0;
+    display:flex;
+    
+align-items: center;
+}
+.nav-contents{
+    margin: 0;
+    display: flex;
+    list-style: none;
+    gap: 22px;
+    font-size: 17px;
+    font-family:inter ;
+    font-weight: 300;
+   
+    
+}
+.header-icons{
+    width: 18px;
+    display: flex;
+    gap: 10px;
+    
+}
+.header-icons:hover , .nav-contents li:hover, .header-logo,button{
+    color: #2C6BED;
+    cursor: pointer;
+}
+.conteiner
+{
+    display: flex;
+    background-color: #9DBBF8;
+    height: 770px;
+}
+
+
+.con-first{
+    width: 40%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    padding-top:87px;
+    height: 500px;
+    padding-left: 75px;
+    
+    }
+    .con-first h1
+{
+  padding-top: 148px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: 60px;
+  font-weight: 800;
+  color: #1b1b1b;
+
+}.con-first p
+{margin: 0;
+    padding-top: 21px;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+}.button
+{
+    background-color: white;
+    width: 133px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size:20px ;
+    font-weight: 500;
+    margin-top: 22px;
+    color: #2C6BED;
+    
+}
+
+elements{
+    display: flex;
+    flex-direction: column;
+    padding-left: -100px;
+    width: 60%;
+    position: relative;
+}
+
+.element1{
+    rotate: 22.5deg;
+height: 655px;
+width: auto;
+padding-top: 180px;
+position: absolute;
+}.element2{
+    rotate: 22.5deg;
+    height: 600px;
+    padding-left: 270px;
+    display: flex;
+    position: absolute;
+    padding-top:70px ;
+    
+
+}

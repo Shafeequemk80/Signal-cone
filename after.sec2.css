@@ -1,0 +1,142 @@
+.sec-con{
+
+    text-align: center;
+}
+.why-use
+{
+font-size: 40px;
+padding-top: 100px;
+margin: 0;
+ 
+}.sec-con p{
+    margin: 0;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.third-con{
+    margin: 0;
+   
+    padding-left: 80px;
+    padding-top: 80px;
+    display: flex;
+    margin-bottom: 35px ;
+}
+.third-con h1{
+    margin: 0;
+    font-size: 40px;
+    width: 290px;
+}.third-con p{
+    width: 450px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.third-right
+{
+    height: 500px;
+    width: 700px;
+    background-color:#9DBBF8 ;
+    border-radius: 20px;
+      margin-bottom: 200px;
+      margin-left: 200px;
+}
+.video{
+    width: 100%;
+    border-radius: 20px;
+    
+}
+.forth-conteiner
+{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    background-color: #F6F6F6;
+}.grid{
+   width: 600px;
+    border: 1px;
+    
+
+    background-color:  white;
+    border-radius: 30px;
+    text-align: center;
+    padding: 30px;
+    
+}   
+.one, .three{
+    margin-left: 70px;
+    margin-right: 10px;
+}
+.two, .four
+{
+
+   margin-left: 10px;
+}.one, .two{
+    margin-top: 100px;
+}.three,.four
+    {margin-top: 50px;
+    margin-bottom: 100px;
+}
+.grid img{
+    
+    width: auto;
+    height: 370px;
+}
+.grid h1{
+font-size: 28px;
+font-weight:900;
+margin: 0%;
+}
+.grid p{
+    font-size: 16px;
+
+
+}
+
+.oneof{
+    display: flex;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+.oneof h1{
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0%;
+}.oneof p{
+    font-size: 21px;    
+    font-weight: 400;
+    line-height: 30px;
+    
+}.oneofhi{
+    width: 450px;
+    
+padding-left: 100px;
+}
+.oneofhi2{
+    width: 450px;
+    
+padding-left: 30px;
+}
+.coloum img{
+
+width: 670px;
+border-radius: 20px ;
+margin-left: 20px;
+}
+.coloum1 img{
+
+    width: 670px;
+    border-radius: 20px ;
+    margin-left: 300px;
+    }
+    .button1
+{
+    background-color: white;
+    padding: 10px 20px;
+    border: 2px  solid  #2C6BED;
+    border-radius: 10px;
+    font-size:20px ;
+    font-weight: 600;
+    margin-top: 22px;
+    color: #2C6BED;
+    
+}
